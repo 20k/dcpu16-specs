@@ -1,0 +1,1 @@
+Many of the DCPU-16 hardware specs are of unclear or unknown licensing - especially the DCPU-16 itself, which makes republishing them as-is tricky. This repo contains rewritten from scratch but equivalent specs under the MIT license that should be good to distribute
