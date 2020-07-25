@@ -15,7 +15,7 @@
 Sending a hardware interrupt to this device does different things depending on the contents of the registers A and B. C is also used to store data
 
 | A | B | Description |
-|---|:---:|------------|
+|---|---:|------------|
 | 0 | 0 | The clock is turned off. The interrupt mode is set to off |
 | 0  | > 0 | The clock will tick 60/B times per second |
 | 1 | N/A | The number of ticks that have fully passed since the clock received an interrupt with A == 0 are stored in C |
