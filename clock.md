@@ -1,9 +1,11 @@
 # Description
 
-- name: Generic Clock
-- hardware_id: 0x12d0b402
-- hardware_version: 1
-- manufacturer_id : 0xFFFFFFFB
+| Name | Value |
+| ---- | ----- |
+| name | Generic Clock |
+| hardware_id | 0x12d0b402 |
+| hardware_version | 1 |
+| manufacturer_id | 0xFFFFFFFB |
 
 # Starting state
 
